@@ -26,24 +26,83 @@ Kommunicate <br>
 
 
 ### Images:
+<!-- First image with caption -->
+<figure>
+  <figcaption > 1. Homepage</figcaption>
 
-<img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/5bdd689f-6ff7-4a37-bbcb-2fa6fa3c4399" width="450" height="300" />
+<br>
+<br>
+  <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/5bdd689f-6ff7-4a37-bbcb-2fa6fa3c4399" width="700" height="400" />
+</figure>
+<br> 
+<br>
+<br>
+
+
+<figure>
+  <figcaption >2. Search Suggestions</figcaption>
+ <br>
+<br>
+  <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/11afbcb5-5f0f-4420-b8f6-a01f93900b83" width="700" height="400" />
+</figure>
+<br>
+<br>
+<br>
+
+<figure>
+  <figcaption >3. Movie Details and Recommendations</figcaption>
+ <br>
+<br>
+  <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/fc90b6d7-63d3-489c-8ca8-edfa26ffe2f3" width="700" height="400" />
+</figure>
+<br>
+<br>
+<br>
+
+<figure>
+  <figcaption >4. Search Results</figcaption>
+  <br>
+<br>
+  <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/fed05343-493e-4338-b890-0c8e96abfdbb" width="700" height="400" />
+</figure>
+<br>
+<br>
+<br>
+
+<figure>
+  <figcaption >5. Chatbot</figcaption>
+  <br>
+<br>
+  <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/9d07fab0-6d58-4f68-9151-1ab2dcde851f" width="700" height="400" />
+</figure>
+<br>
+<br>
+<br>
+
+<figure>
+  <figcaption >6. Gradio App</figcaption>
+ <br>
+<br>
+  <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/96cbafbc-db00-4603-b76d-a9c61bd9208e" width="700" height="400" />
+</figure>
+<br>
+<br>
+
+
+<!-- <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/5bdd689f-6ff7-4a37-bbcb-2fa6fa3c4399" width="450" height="300" />
 <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/11afbcb5-5f0f-4420-b8f6-a01f93900b83" width="500" height="300" />
 <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/fc90b6d7-63d3-489c-8ca8-edfa26ffe2f3" width="450" height="300" />
 
-<img src="(https://github.com/Aryann29/Watchwise_web/assets/63531062/fed05343-493e-4338-b890-0c8e96abfdbb" width="450" height="300" />
+<img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/fed05343-493e-4338-b890-0c8e96abfdbb" width="450" height="300" />
 
-<img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/9d07fab0-6d58-4f68-9151-1ab2dcde851f" width="500" height="300" />
+<img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/9d07fab0-6d58-4f68-9151-1ab2dcde851f" width="450" height="300" />
 <img src="https://github.com/Aryann29/Watchwise_web/assets/63531062/96cbafbc-db00-4603-b76d-a9c61bd9208e" width="450" height="300" />
+ -->
+
+
 ### LINKS:
-<!-- ![Movie info](https://github.com/Aryann29/Watchwise_web/assets/63531062/221b959e-7616-42ed-9d16-892391bdd887)
 
-![home](https://github.com/Aryann29/Watchwise_web/assets/63531062/5bdd689f-6ff7-4a37-bbcb-2fa6fa3c4399)
-![search sugg](https://github.com/Aryann29/Watchwise_web/assets/63531062/11afbcb5-5f0f-4420-b8f6-a01f93900b83)
-![detail and recomm](https://github.com/Aryann29/Watchwise_web/assets/63531062/fc90b6d7-63d3-489c-8ca8-edfa26ffe2f3)
-![search res](https://github.com/Aryann29/Watchwise_web/assets/63531062/fed05343-493e-4338-b890-0c8e96abfdbb)
+* WatchWise - https://aryann29.github.io/watchwise/
+* Gradio hfSpace - https://huggingface.co/spaces/aryan29/movie-recommender-system
 
-![chat](https://github.com/Aryann29/Watchwise_web/assets/63531062/9d07fab0-6d58-4f68-9151-1ab2dcde851f)
-
-![gradio)](https://github.com/Aryann29/Watchwise_web/assets/63531062/96cbafbc-db00-4603-b76d-a9c61bd9208e) -->
 
